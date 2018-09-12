@@ -13,8 +13,8 @@ public class Exercicio06 {
 		double desconto = numero1*numero2;
 		double preco = numero1-desconto;
 		
-		System.out.println("O preço é "+preco);
-		System.out.println("Ovalor do desconto é "+desconto);
+		System.out.println("O preço é: "+preco);
+		System.out.println("Ovalor do desconto é: "+desconto);
 		teclado.close();
 	
 	}
