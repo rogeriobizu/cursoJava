@@ -10,7 +10,7 @@ public class Exercicio02 {
 	double numero1 = Double.parseDouble(teclado.nextLine());
 	System.out.println("Digite um segundo Numero");
 	double numero2 = Double.parseDouble(teclado.nextLine());
-	System.out.println("Digite um segundo Numero");
+	System.out.println("Digite um terceiro Numero");
 	double numero3 = Double.parseDouble(teclado.nextLine());
 	double media = ((numero1+numero2+numero3)/3);
 	System.out.println(media);
